@@ -1,9 +1,4 @@
-# README: Python/Java Coding Exercise
-
-Welcome! We're excited you've decided to talk with us about a position on our
-engineering team.
-
-# Instructions
+# README: Python API Coding Exercise
 
 ## Problem
 
@@ -61,9 +56,7 @@ The routes you should use are:
 
 **5.** Other thoughts
 
-During our discussion we'll talk about your code and decisions you've made.
-We may also challenge assumptions in the problem, or add requirements. For
-example:
+For example:
 
 - How might student data be changed?
 - What if we wanted to create many students at once?
@@ -141,20 +134,6 @@ Ran 14 tests in 0.106s
 
 OK
 ```
-
-# Logistics
-
-**1.** Timeframe
-
-You should take a max of three hours to complete this exercise. We want to be
-both respectful of your time and fair to other candidates who might not have
-a whole weekend to work on it.
-
-
-**2.** Sharing
-
-You can share you completed exercise with the recruiter via email in a zip format.
-
 
 
 # Helpful Resources
